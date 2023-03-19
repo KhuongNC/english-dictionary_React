@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/english-dictionary_React/static/css/main.246f903f.css",
+    "main.js": "/english-dictionary_React/static/js/main.baf52c47.js",
+    "static/js/787.0392355d.chunk.js": "/english-dictionary_React/static/js/787.0392355d.chunk.js",
+    "index.html": "/english-dictionary_React/index.html",
+    "main.246f903f.css.map": "/english-dictionary_React/static/css/main.246f903f.css.map",
+    "main.baf52c47.js.map": "/english-dictionary_React/static/js/main.baf52c47.js.map",
+    "787.0392355d.chunk.js.map": "/english-dictionary_React/static/js/787.0392355d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.246f903f.css",
+    "static/js/main.baf52c47.js"
+  ]
+}
